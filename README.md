@@ -1,4 +1,4 @@
-# Palidrome Checker
+# Palindrome Checker
 
 This program takes an input from a user and checks whether or not it is a 
 palindrome (a word or phrase that is the same forward and backward).
